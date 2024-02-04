@@ -1,0 +1,17 @@
+[
+    {
+        "firstName" : "Mert",
+        "lastName" :   "Metin",
+        "age" : 27
+    },
+    {
+        "firstName" : "Serap",
+        "lastName" :   "Kurşunoğlu",
+        "age" : 24
+    },
+    {
+        "firstName" : "Murat",
+        "lastName" :   "Metin",
+        "age" : 55
+    }
+]
